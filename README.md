@@ -12,6 +12,12 @@
 
 製作資料夾位於:attraction_Xuan
 
+
+youtube影片展示:
+
+https://www.youtube.com/watch?v=QhoKjzvslM8&ab_channel=ShiraLin
+
+
 功能
 ---------------
 - 新增景點頁
