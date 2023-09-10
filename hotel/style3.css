@@ -1,0 +1,83 @@
+@charset "utf-8";
+.title_font {
+  color: #6b6bee;
+  font-size: 17px;
+  background-color: #dbc2da6c;
+}
+
+.table_color {
+  color: #660000;
+  background-color: #dbc2da6c;
+}
+
+.customer_color {
+  color: #800080;
+  background-color: #99cc99;
+}
+
+input.rightAligned {
+  text-align: right;
+}
+
+.InputClass {
+  font-size: 16px;
+}
+
+#message {
+  position: absolute;
+  left: 620px;
+  top: 30px;
+  color: #ff0660;
+  background-color: #eee8aa;
+}
+
+#insert {
+  position: absolute;
+  left: 620px;
+  top: 70px;
+}
+#bpaging {
+  position: absolute;
+  left: 400px;
+  top: 77px;
+}
+#blfirst {
+  position: relative;
+  left: 2px;
+  top: 2px;
+}
+
+#blprev {
+  position: relative;
+  left: 2px;
+  top: 2px;
+}
+#blnext {
+  position: relative;
+  left: 2px;
+  top: 2px;
+}
+#bllast {
+  position: relative;
+  left: 2px;
+  top: 2px;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #ddd;
+}
+
+thead {
+  background-color: #6969d86c;
+}
