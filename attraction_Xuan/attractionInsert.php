@@ -744,7 +744,7 @@
 
       // 圖片預覽
 
-      let fileName = ''; // 这里声明了全局变量
+      let fileName = '';
       let imgBase64 = '';
 
       $('#attractionImg').on('change', function(e) {
